@@ -1,0 +1,15 @@
+/Users/matheusmachado/Documents/Projeto DIO/bin/Debug/net7.0/Projeto DIO
+/Users/matheusmachado/Documents/Projeto DIO/bin/Debug/net7.0/Projeto DIO.deps.json
+/Users/matheusmachado/Documents/Projeto DIO/bin/Debug/net7.0/Projeto DIO.runtimeconfig.json
+/Users/matheusmachado/Documents/Projeto DIO/bin/Debug/net7.0/Projeto DIO.dll
+/Users/matheusmachado/Documents/Projeto DIO/bin/Debug/net7.0/Projeto DIO.pdb
+/Users/matheusmachado/Documents/Projeto DIO/obj/Debug/net7.0/Projeto DIO.csproj.AssemblyReference.cache
+/Users/matheusmachado/Documents/Projeto DIO/obj/Debug/net7.0/Projeto DIO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matheusmachado/Documents/Projeto DIO/obj/Debug/net7.0/Projeto DIO.AssemblyInfoInputs.cache
+/Users/matheusmachado/Documents/Projeto DIO/obj/Debug/net7.0/Projeto DIO.AssemblyInfo.cs
+/Users/matheusmachado/Documents/Projeto DIO/obj/Debug/net7.0/Projeto DIO.csproj.CoreCompileInputs.cache
+/Users/matheusmachado/Documents/Projeto DIO/obj/Debug/net7.0/Projeto DIO.dll
+/Users/matheusmachado/Documents/Projeto DIO/obj/Debug/net7.0/refint/Projeto DIO.dll
+/Users/matheusmachado/Documents/Projeto DIO/obj/Debug/net7.0/Projeto DIO.pdb
+/Users/matheusmachado/Documents/Projeto DIO/obj/Debug/net7.0/Projeto DIO.genruntimeconfig.cache
+/Users/matheusmachado/Documents/Projeto DIO/obj/Debug/net7.0/ref/Projeto DIO.dll
